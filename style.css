@@ -1,0 +1,15 @@
+.main-body{
+    margin-top: 20px;
+    background-color: grey;
+}
+
+.heading{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+#signup-form-id{
+    width: 800px;
+    margin: auto;
+}
